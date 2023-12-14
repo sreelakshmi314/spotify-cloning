@@ -7,4 +7,4 @@ This repository contains three main folders
 ### Used Components
 - [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/): For developing and building
 - [Flutter Riverpod](https://pub.dev/packages/flutter_riverpod): For state managing. Here for favorite songs state.
-- [Firebase Auth](https://pub.dev/packages/firebase_auth): For user authentication.
+- [Firebase Auth](https://pub.dev/packages/firebase_auth): For user authentication
